@@ -5,3 +5,4 @@ Restore database: right click database and click "restore"
 
 Schema -> tables themselves, not the data in tables (duplicate format)
 
+Cleaning -> wiping database of data
